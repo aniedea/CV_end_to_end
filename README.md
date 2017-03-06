@@ -18,6 +18,7 @@ This project goes through an end-to-end example of using Azure services to:
 ### Web-View
 
 ![alt tag](demo/web.jpg)
+[Web view](http://ilkarmanwhatsthis.azurewebsites.net/)
 
 ### Infrastructure
 
