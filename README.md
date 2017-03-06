@@ -19,6 +19,8 @@ This project goes through an end-to-end example of using Azure services to:
 
 ![alt tag](demo/web.jpg)
 
+[Web view](http://ilkarmanwhatsthis.azurewebsites.net/)
+
 ### Infrastructure
 
 ![alt tag](demo/main_arch.JPG)
